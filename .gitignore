@@ -1,10 +1,6 @@
 .venv/
-build/
-dist/
+bin/
 pyinstaller/
 
-*.bat
-*.log
-*.pyc
+ftd2xx.dll
 *.sublime-workspace
-*.wav
